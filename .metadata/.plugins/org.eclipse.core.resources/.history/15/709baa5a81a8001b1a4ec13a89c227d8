@@ -1,0 +1,11 @@
+package com.algaworks.curso.fjoo.generics;
+
+public class Funcionario {
+
+	private String nome;
+
+	private Funcionario(String nome) {
+		this.nome = nome;
+	}
+
+}

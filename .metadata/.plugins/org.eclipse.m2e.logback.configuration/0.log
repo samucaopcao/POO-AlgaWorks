@@ -1,0 +1,321 @@
+2021-03-31 19:59:13,838 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-04-03 21:03:21,534 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-04-05 20:21:32,899 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-04-06 20:11:01,140 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-04-07 19:54:23,767 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-04-08 18:44:22,807 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-04-09 19:46:27,026 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-04-11 20:50:24,487 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-04-12 20:40:22,180 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-04-13 14:51:31,541 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-04-13 19:25:07,586 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-04-14 18:58:18,221 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-04-17 16:23:19,658 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-04-19 19:10:40,987 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-04-20 18:56:24,233 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-04-22 19:18:35,032 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-04-23 19:26:02,624 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-04-23 21:52:21,423 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-04-26 18:43:00,289 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-04-27 19:21:10,610 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-04-28 20:48:34,305 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-04-29 18:43:58,117 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-05-01 20:00:53,112 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-05-01 21:33:16,783 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-05-02 11:02:12,664 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-05-02 18:36:12,323 [Worker-127: Creating project "exemplo-maven"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.maven:exemplo-maven:1.0.0-SNAPSHOT @ E:\DESENVOLVIMENTO\CURSOS\EXERCICIOS\exemplo-maven\pom.xml.
+2021-05-02 18:36:13,630 [Worker-127: Creating project "exemplo-maven"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exemplo-maven/src/main/java
+2021-05-02 18:36:13,632 [Worker-127: Creating project "exemplo-maven"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /exemplo-maven/src/main/resources
+2021-05-02 18:36:13,633 [Worker-127: Creating project "exemplo-maven"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exemplo-maven/src/test/java
+2021-05-02 18:36:13,633 [Worker-127: Creating project "exemplo-maven"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /exemplo-maven/src/test/resources
+2021-05-02 18:36:14,007 [Worker-132: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 18:36:14,013 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 18:36:14,015 [Worker-132: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 18:36:14,016 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 18:41:35,301 [Worker-127: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.maven:exemplo-maven:1.0.0-SNAPSHOT @ E:\DESENVOLVIMENTO\CURSOS\EXERCICIOS\exemplo-maven\pom.xml.
+2021-05-02 18:41:35,497 [Worker-127: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 18:41:35,536 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 18:41:35,538 [Worker-127: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 18:41:35,539 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 18:42:03,016 [Worker-135: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-05-02 18:42:03,364 [Worker-135: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.maven:exemplo-maven:1.0.0-SNAPSHOT @ E:\DESENVOLVIMENTO\CURSOS\EXERCICIOS\exemplo-maven\pom.xml.
+2021-05-02 18:42:03,486 [Worker-135: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exemplo-maven/src/main/java
+2021-05-02 18:42:03,487 [Worker-135: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /exemplo-maven/src/main/resources
+2021-05-02 18:42:03,487 [Worker-135: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exemplo-maven/src/test/java
+2021-05-02 18:42:03,487 [Worker-135: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /exemplo-maven/src/test/resources
+2021-05-02 18:42:03,599 [Worker-135: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2021-05-02 18:42:03,768 [Worker-136: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 18:42:03,769 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 18:42:03,772 [Worker-136: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 18:42:03,773 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 18:43:01,708 [Worker-127: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 18:43:01,711 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 18:43:01,713 [Worker-127: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 18:43:01,714 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 18:45:46,239 [Worker-136: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 18:45:46,240 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 18:45:46,241 [Worker-136: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 18:45:46,242 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 18:46:24,481 [Worker-132: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 18:46:24,482 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 18:46:24,483 [Worker-132: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 18:46:24,484 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 18:46:50,870 [Worker-136: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 18:46:50,871 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 18:46:50,872 [Worker-136: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 18:46:50,872 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 18:47:38,447 [Worker-132: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 18:47:38,448 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 18:47:38,454 [Worker-132: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 18:47:38,456 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 18:55:44,413 [Worker-135: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/mojo/exec-maven-plugin/1.3/exec-maven-plugin-1.3.pom
+2021-05-02 18:55:44,703 [Worker-135: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/mojo/exec-maven-plugin/1.3/exec-maven-plugin-1.3.pom
+2021-05-02 18:55:44,845 [Worker-135: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/mojo/mojo-parent/33/mojo-parent-33.pom
+2021-05-02 18:55:45,059 [Worker-135: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/mojo/mojo-parent/33/mojo-parent-33.pom
+2021-05-02 18:55:45,197 [Worker-135: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/codehaus-parent/4/codehaus-parent-4.pom
+2021-05-02 18:55:45,374 [Worker-135: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/codehaus-parent/4/codehaus-parent-4.pom
+2021-05-02 18:55:45,507 [Worker-135: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/mojo/exec-maven-plugin/1.3/exec-maven-plugin-1.3.jar
+2021-05-02 18:55:45,775 [Worker-135: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/mojo/exec-maven-plugin/1.3/exec-maven-plugin-1.3.jar
+2021-05-02 18:55:46,249 [Worker-135: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.maven:exemplo-maven:1.0.0-SNAPSHOT @ E:\DESENVOLVIMENTO\CURSOS\EXERCICIOS\exemplo-maven\pom.xml.
+2021-05-02 18:55:46,849 [Worker-135: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.pom
+2021-05-02 18:55:47,340 [Worker-135: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.pom
+2021-05-02 18:55:47,488 [Worker-135: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/33/commons-parent-33.pom
+2021-05-02 18:55:47,787 [Worker-135: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/33/commons-parent-33.pom
+2021-05-02 18:55:47,945 [Worker-135: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar
+2021-05-02 18:55:48,728 [Worker-135: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar
+2021-05-02 18:55:48,935 [Worker-135: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 18:55:48,936 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 18:55:48,938 [Worker-135: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 18:55:48,939 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 18:55:50,242 [Worker-137: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 18:55:50,244 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 18:55:50,246 [Worker-137: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 18:55:50,247 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 18:55:50,425 [Worker-138: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2-sources.jar
+2021-05-02 18:55:51,591 [Worker-138: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2-sources.jar
+2021-05-02 18:55:51,663 [Worker-138: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-lang3:3.3.2
+2021-05-02 18:55:51,867 [Worker-139: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 18:55:51,868 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 18:55:51,869 [Worker-139: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 18:55:51,869 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 18:55:56,838 [Worker-140: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-05-02 18:55:57,143 [Worker-140: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.maven:exemplo-maven:1.0.0-SNAPSHOT @ E:\DESENVOLVIMENTO\CURSOS\EXERCICIOS\exemplo-maven\pom.xml.
+2021-05-02 18:55:57,263 [Worker-140: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exemplo-maven/src/main/java
+2021-05-02 18:55:57,263 [Worker-140: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /exemplo-maven/src/main/resources
+2021-05-02 18:55:57,263 [Worker-140: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exemplo-maven/src/test/java
+2021-05-02 18:55:57,263 [Worker-140: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /exemplo-maven/src/test/resources
+2021-05-02 18:55:57,304 [Worker-140: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2021-05-02 18:55:57,440 [Worker-139: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 18:55:57,441 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 18:55:57,442 [Worker-139: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 18:55:57,443 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 18:56:15,400 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2021-05-02 18:56:37,184 [Worker-138: Launching exemplo-maven] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\DESENVOLVIMENTO\CURSOS\EXERCICIOS\exemplo-maven
+2021-05-02 18:56:37,184 [Worker-138: Launching exemplo-maven] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B exec:java
+2021-05-02 18:59:11,288 [Worker-141: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.curso:exemplo-maven:1.0.0-SNAPSHOT @ E:\DESENVOLVIMENTO\CURSOS\EXERCICIOS\exemplo-maven\pom.xml.
+2021-05-02 18:59:11,459 [Worker-141: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 18:59:11,461 [Worker-141: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 18:59:11,462 [Worker-141: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 18:59:11,463 [Worker-141: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 18:59:23,601 [Worker-142: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.maven:exemplo-maven:1.0.0-SNAPSHOT @ E:\DESENVOLVIMENTO\CURSOS\EXERCICIOS\exemplo-maven\pom.xml.
+2021-05-02 18:59:23,711 [Worker-142: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 18:59:23,712 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 18:59:23,714 [Worker-142: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 18:59:23,714 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 18:59:43,790 [Worker-140: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-05-02 18:59:44,061 [Worker-140: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.maven:exemplo-maven:1.0.0-SNAPSHOT @ E:\DESENVOLVIMENTO\CURSOS\EXERCICIOS\exemplo-maven\pom.xml.
+2021-05-02 18:59:44,159 [Worker-140: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exemplo-maven/src/main/java
+2021-05-02 18:59:44,159 [Worker-140: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /exemplo-maven/src/main/resources
+2021-05-02 18:59:44,159 [Worker-140: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exemplo-maven/src/test/java
+2021-05-02 18:59:44,159 [Worker-140: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /exemplo-maven/src/test/resources
+2021-05-02 18:59:44,206 [Worker-140: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2021-05-02 18:59:44,370 [Worker-141: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 18:59:44,371 [Worker-141: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 18:59:44,373 [Worker-141: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 18:59:44,373 [Worker-141: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 19:00:32,417 [Worker-140: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.maven:exemplo-maven:1.0.0-SNAPSHOT @ E:\DESENVOLVIMENTO\CURSOS\EXERCICIOS\exemplo-maven\pom.xml.
+2021-05-02 19:00:32,517 [Worker-140: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 19:00:32,519 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 19:00:32,521 [Worker-140: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 19:00:32,522 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 19:13:38,728 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2021-05-02 19:13:38,998 [Worker-142: Launching exemplo-maven] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\DESENVOLVIMENTO\CURSOS\EXERCICIOS\exemplo-maven
+2021-05-02 19:13:38,998 [Worker-142: Launching exemplo-maven] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B exec:java
+2021-05-02 19:16:19,073 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2021-05-02 19:16:19,444 [Worker-146: Launching exemplo-maven] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\DESENVOLVIMENTO\CURSOS\EXERCICIOS\exemplo-maven
+2021-05-02 19:16:19,444 [Worker-146: Launching exemplo-maven] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B exec:java
+2021-05-02 19:16:20,297 [Worker-142: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/mojo/exec-maven-plugin/2.3/exec-maven-plugin-2.3.pom
+2021-05-02 19:16:20,299 [Worker-142: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:exec-maven-plugin:jar:2.3 is missing, no dependency information available
+2021-05-02 19:16:20,595 [Worker-142: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/mojo/exec-maven-plugin/2.3/exec-maven-plugin-2.3.jar
+2021-05-02 19:16:20,598 [Worker-142: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:exec-maven-plugin:jar:2.3 is missing, no dependency information available
+2021-05-02 19:16:20,607 [Worker-142: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:exec-maven-plugin:jar:2.3 is missing, no dependency information available
+2021-05-02 19:16:20,609 [Worker-142: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.maven:exemplo-maven:1.0.0-SNAPSHOT @ E:\DESENVOLVIMENTO\CURSOS\EXERCICIOS\exemplo-maven\pom.xml.
+2021-05-02 19:18:43,004 [Worker-146: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/twdata/maven/exec-maven-plugin/2.3.1/exec-maven-plugin-2.3.1.pom
+2021-05-02 19:18:43,010 [Worker-146: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.twdata.maven:exec-maven-plugin:jar:2.3.1 is missing, no dependency information available
+2021-05-02 19:18:43,272 [Worker-146: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/twdata/maven/exec-maven-plugin/2.3.1/exec-maven-plugin-2.3.1.jar
+2021-05-02 19:18:43,280 [Worker-146: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.twdata.maven:exec-maven-plugin:jar:2.3.1 is missing, no dependency information available
+2021-05-02 19:18:43,295 [Worker-146: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.twdata.maven:exec-maven-plugin:jar:2.3.1 is missing, no dependency information available
+2021-05-02 19:18:43,302 [Worker-146: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.maven:exemplo-maven:1.0.0-SNAPSHOT @ E:\DESENVOLVIMENTO\CURSOS\EXERCICIOS\exemplo-maven\pom.xml.
+2021-05-02 19:18:47,971 [Worker-146: Launching exemplo-maven] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\DESENVOLVIMENTO\CURSOS\EXERCICIOS\exemplo-maven
+2021-05-02 19:18:47,971 [Worker-146: Launching exemplo-maven] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B exec:java
+2021-05-02 19:20:14,958 [Worker-142: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.maven:exemplo-maven:1.0.0-SNAPSHOT @ E:\DESENVOLVIMENTO\CURSOS\EXERCICIOS\exemplo-maven\pom.xml.
+2021-05-02 19:20:15,050 [Worker-142: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 19:20:15,052 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 19:20:15,053 [Worker-142: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 19:20:15,054 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 19:20:16,363 [Worker-150: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 19:20:16,364 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 19:20:16,366 [Worker-150: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 19:20:16,367 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 19:20:24,962 [Worker-151: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-05-02 19:20:25,230 [Worker-151: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.maven:exemplo-maven:1.0.0-SNAPSHOT @ E:\DESENVOLVIMENTO\CURSOS\EXERCICIOS\exemplo-maven\pom.xml.
+2021-05-02 19:20:25,314 [Worker-151: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exemplo-maven/src/main/java
+2021-05-02 19:20:25,314 [Worker-151: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /exemplo-maven/src/main/resources
+2021-05-02 19:20:25,314 [Worker-151: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exemplo-maven/src/test/java
+2021-05-02 19:20:25,314 [Worker-151: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /exemplo-maven/src/test/resources
+2021-05-02 19:20:25,347 [Worker-151: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2021-05-02 19:20:25,469 [Worker-146: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 19:20:25,470 [Worker-146: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 19:20:25,471 [Worker-146: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 19:20:25,472 [Worker-146: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 19:20:32,824 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2021-05-02 19:20:33,088 [Worker-152: Launching exemplo-maven] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\DESENVOLVIMENTO\CURSOS\EXERCICIOS\exemplo-maven
+2021-05-02 19:20:33,088 [Worker-152: Launching exemplo-maven] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B exec:java
+2021-05-02 19:21:46,331 [Worker-152: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.maven:exemplo-maven:1.0.0-SNAPSHOT @ E:\DESENVOLVIMENTO\CURSOS\EXERCICIOS\exemplo-maven\pom.xml.
+2021-05-02 19:21:46,429 [Worker-152: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 19:21:46,431 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 19:21:46,432 [Worker-152: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 19:21:46,433 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 19:21:47,668 [Worker-152: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 19:21:47,669 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 19:21:47,669 [Worker-152: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 19:21:47,670 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 19:21:54,797 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2021-05-02 19:21:55,069 [Worker-142: Launching exemplo-maven] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\DESENVOLVIMENTO\CURSOS\EXERCICIOS\exemplo-maven
+2021-05-02 19:21:55,069 [Worker-142: Launching exemplo-maven] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B exec:java
+2021-05-02 19:23:44,897 [Worker-153: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 19:23:44,900 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 19:23:44,901 [Worker-153: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 19:23:44,902 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 19:24:23,404 [Worker-154: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 19:24:23,405 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 19:24:23,406 [Worker-154: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 19:24:23,407 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 19:46:36,505 [Worker-162: Creating project "exemplo-junit"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.junit:exemplo-junit:1.0.0-SNAPSHOT @ E:\DESENVOLVIMENTO\CURSOS\EXERCICIOS\exemplo-junit\pom.xml.
+2021-05-02 19:46:36,869 [Worker-162: Creating project "exemplo-junit"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exemplo-junit/src/main/java
+2021-05-02 19:46:36,869 [Worker-162: Creating project "exemplo-junit"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /exemplo-junit/src/main/resources
+2021-05-02 19:46:36,870 [Worker-162: Creating project "exemplo-junit"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exemplo-junit/src/test/java
+2021-05-02 19:46:36,871 [Worker-162: Creating project "exemplo-junit"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /exemplo-junit/src/test/resources
+2021-05-02 19:46:37,084 [Worker-166: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 19:46:37,085 [Worker-166: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 19:46:37,087 [Worker-166: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 19:46:37,088 [Worker-166: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 19:50:00,121 [Worker-168: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.junit:exemplo-junit:1.0.0-SNAPSHOT @ E:\DESENVOLVIMENTO\CURSOS\EXERCICIOS\exemplo-junit\pom.xml.
+2021-05-02 19:50:01,022 [Worker-168: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.7.0/junit-jupiter-api-5.7.0.pom
+2021-05-02 19:50:01,384 [Worker-168: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.7.0/junit-jupiter-api-5.7.0.pom
+2021-05-02 19:50:01,530 [Worker-168: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.7.0/junit-bom-5.7.0.pom
+2021-05-02 19:50:01,723 [Worker-168: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.7.0/junit-bom-5.7.0.pom
+2021-05-02 19:50:01,898 [Worker-168: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.7.0/junit-platform-commons-1.7.0.pom
+2021-05-02 19:50:02,080 [Worker-168: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.7.0/junit-platform-commons-1.7.0.pom
+2021-05-02 19:50:02,230 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.7.0/junit-jupiter-api-5.7.0.jar
+2021-05-02 19:50:02,398 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.7.0/junit-platform-commons-1.7.0.jar
+2021-05-02 19:50:03,327 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.7.0/junit-platform-commons-1.7.0.jar
+2021-05-02 19:50:03,437 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.7.0/junit-jupiter-api-5.7.0.jar
+2021-05-02 19:50:03,682 [Worker-168: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 19:50:03,683 [Worker-168: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 19:50:03,684 [Worker-168: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 19:50:03,685 [Worker-168: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 19:50:04,803 [Worker-167: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 19:50:04,805 [Worker-167: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 19:50:04,807 [Worker-167: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 19:50:04,809 [Worker-167: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 19:50:05,245 [Worker-169: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.7.0/junit-jupiter-api-5.7.0-sources.jar
+2021-05-02 19:50:05,705 [Worker-169: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.7.0/junit-jupiter-api-5.7.0-sources.jar
+2021-05-02 19:50:05,735 [Worker-169: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.jupiter:junit-jupiter-api:5.7.0
+2021-05-02 19:50:06,317 [Worker-169: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.7.0/junit-platform-commons-1.7.0-sources.jar
+2021-05-02 19:50:06,614 [Worker-169: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.7.0/junit-platform-commons-1.7.0-sources.jar
+2021-05-02 19:50:06,647 [Worker-169: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.platform:junit-platform-commons:1.7.0
+2021-05-02 19:50:06,788 [Worker-171: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 19:50:06,789 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 19:50:06,791 [Worker-171: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 19:50:06,791 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 20:00:35,999 [Worker-172: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 20:00:36,000 [Worker-172: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 20:00:36,001 [Worker-172: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 20:00:36,002 [Worker-172: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 20:02:36,646 [Worker-174: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 20:02:36,646 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 20:02:36,647 [Worker-174: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 20:02:36,648 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 20:03:29,420 [Worker-174: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 20:03:29,421 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 20:03:29,422 [Worker-174: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 20:03:29,422 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 20:04:41,109 [Worker-175: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 20:04:41,111 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-02 20:04:41,156 [Worker-175: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 20:04:41,157 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 20:05:22,752 [Worker-174: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 20:05:22,753 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 20:05:22,755 [Worker-174: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 20:05:22,755 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 20:05:37,103 [Worker-172: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 20:05:37,105 [Worker-172: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 20:05:37,106 [Worker-172: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 20:05:37,107 [Worker-172: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 20:05:49,646 [Worker-172: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 20:05:49,648 [Worker-172: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 20:05:49,649 [Worker-172: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 20:05:49,650 [Worker-172: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 20:14:57,561 [Worker-179: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 20:14:57,562 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 20:14:57,563 [Worker-179: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 20:14:57,564 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 20:15:07,254 [Worker-176: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-05-02 20:15:07,584 [Worker-176: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.junit:exemplo-junit:1.0.0-SNAPSHOT @ E:\DESENVOLVIMENTO\CURSOS\EXERCICIOS\exemplo-junit\pom.xml.
+2021-05-02 20:15:07,622 [Worker-176: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.maven:exemplo-maven:1.0.0-SNAPSHOT @ E:\DESENVOLVIMENTO\CURSOS\EXERCICIOS\exemplo-maven\pom.xml.
+2021-05-02 20:15:07,753 [Worker-176: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exemplo-junit/src/main/java
+2021-05-02 20:15:07,753 [Worker-176: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /exemplo-junit/src/main/resources
+2021-05-02 20:15:07,754 [Worker-176: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exemplo-junit/src/test/java
+2021-05-02 20:15:07,754 [Worker-176: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /exemplo-junit/src/test/resources
+2021-05-02 20:15:07,805 [Worker-176: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2021-05-02 20:15:08,054 [Worker-180: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 20:15:08,055 [Worker-180: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 20:15:08,056 [Worker-180: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 20:15:08,057 [Worker-180: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 20:15:08,229 [Worker-180: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 20:15:08,231 [Worker-180: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 20:15:08,232 [Worker-180: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 20:15:08,232 [Worker-180: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 20:15:19,173 [Worker-181: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-05-02 20:15:19,478 [Worker-181: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.junit:exemplo-junit:1.0.0-SNAPSHOT @ E:\DESENVOLVIMENTO\CURSOS\EXERCICIOS\exemplo-junit\pom.xml.
+2021-05-02 20:15:19,514 [Worker-181: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.maven:exemplo-maven:1.0.0-SNAPSHOT @ E:\DESENVOLVIMENTO\CURSOS\EXERCICIOS\exemplo-maven\pom.xml.
+2021-05-02 20:15:19,634 [Worker-181: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exemplo-junit/src/main/java
+2021-05-02 20:15:19,635 [Worker-181: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /exemplo-junit/src/main/resources
+2021-05-02 20:15:19,635 [Worker-181: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exemplo-junit/src/test/java
+2021-05-02 20:15:19,635 [Worker-181: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /exemplo-junit/src/test/resources
+2021-05-02 20:15:19,699 [Worker-181: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2021-05-02 20:15:19,845 [Worker-179: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 20:15:19,846 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 20:15:19,848 [Worker-179: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 20:15:19,848 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 20:15:20,032 [Worker-179: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 20:15:20,034 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 20:15:20,035 [Worker-179: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 20:15:20,035 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 20:17:41,400 [Worker-183: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 20:17:41,401 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-02 20:17:41,402 [Worker-183: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-02 20:17:41,402 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-03 16:17:20,859 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-05-07 20:00:44,827 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-05-07 20:00:52,137 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-07 20:00:52,142 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-07 20:00:52,178 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-07 20:00:52,179 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-07 20:00:53,368 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-07 20:00:53,370 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-07 20:00:53,371 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-07 20:00:53,374 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-10 18:39:59,906 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-05-13 19:04:40,541 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.

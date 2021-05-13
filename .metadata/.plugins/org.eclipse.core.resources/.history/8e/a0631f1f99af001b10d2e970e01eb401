@@ -1,0 +1,11 @@
+package com.algaworks.curso.fjoo.entrada_arq;
+
+public class LendoArquivoItensPedido {
+
+	public static void main(String[] args) {
+		
+		
+
+	}
+
+}

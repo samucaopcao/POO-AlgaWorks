@@ -1,0 +1,7 @@
+package com.algaworks.curso.fjoo.abstrata;
+
+public abstract class Produto {
+
+	public abstract void imprimirDescricao(); 
+	
+}

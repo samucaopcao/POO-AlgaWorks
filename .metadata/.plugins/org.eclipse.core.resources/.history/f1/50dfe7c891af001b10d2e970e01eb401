@@ -1,0 +1,29 @@
+package com.algaworks.curso.fjoo.entrada_arq;
+
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.ArrayList;
+
+public class GravandoEmails {
+
+	public static void main(String[] args) {
+		String[] emails = { "joao@joao.com", "maria@maria.com", "ricardo@ricardo.com" };
+
+		// Armazena as informações no buffer depois descarrega no arquivo
+		BufferedWriter writer = null;
+
+		try {
+			writer = new BufferedWriter(new FileWriter("email.txt"));
+		} catch (IOException e) {
+			System.out.println("Não foi possível gravar o arquivo" + e.getMessage());
+
+		}
+
+		for (String string : emails) {
+
+		}
+
+	}
+
+}
