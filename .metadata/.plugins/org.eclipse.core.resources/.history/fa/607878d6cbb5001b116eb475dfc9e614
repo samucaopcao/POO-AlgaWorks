@@ -1,0 +1,27 @@
+package com.algaworks.curso.fjoo.enviando_objetos_rede;
+
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.ObjectInputStream;
+import java.net.ServerSocket;
+import java.net.Socket;
+
+public class Server {
+	public static void main(String[] args) throws Exception {
+
+		ServerSocket server = new ServerSocket(3333);
+
+		// Socket é o de transmissão canal entre o Client e o Server
+		System.out.println("Aguardando Conexão...");
+		Socket socket = server.accept();
+		System.out.println("Conectado a: " + socket.getRemoteSocketAddress());
+
+		// Para receber as coisas usamos a linha de baixo
+		InputStream entrada = socket.getInputStream();
+		// Como receberemos um objeto precisamos:
+		ObjectInputStream objectInputStream = new ObjectInputStream(entrada);
+
+		objectInputStream.readObject();
+	}
+
+}
