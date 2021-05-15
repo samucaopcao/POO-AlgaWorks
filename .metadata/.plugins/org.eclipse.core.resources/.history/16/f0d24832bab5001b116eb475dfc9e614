@@ -1,0 +1,10 @@
+package com.algaworks.curso.fjoo.salvar_objetos_arquivo;
+
+public class SerializandoObjeto {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

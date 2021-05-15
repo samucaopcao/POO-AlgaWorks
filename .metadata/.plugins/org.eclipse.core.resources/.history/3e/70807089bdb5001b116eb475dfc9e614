@@ -1,0 +1,7 @@
+package com.algaworks.curso.fjoo.salvar_objetos_arquivo;
+
+public class DeserializandoObjeto {
+	public static void main(String[] args) {
+
+	}
+}
